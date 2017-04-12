@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Конвертер валют</string>
+    <string name="from_amount">Исходная сумма</string>
+    <string name="to_amount">Конечная сумма</string>
+    <string name="from_currency">Исходная валюта</string>
+    <string name="to_currency">Конечная валюта</string>
+    <string name="convert">Конвертировать</string>
+    <string name="currency_updated_success">Курсы валют обновлены!</string>
+    <string name="currency_updated_failed">Не удалось обновить курсы валют!</string>
+    <string name="data_not_loaded">Данные не загружены!</string>
+    <string name="select_different_currencies">Выберите разные валюты!</string>
+    <string name="enter_from_currency_greater_than_zero">Введите значение исходной валюты больше 0!</string>
+    <string name="try_again">Проверьте параметры сети и попробуйте еще раз!</string>
+
+
+</resources>
